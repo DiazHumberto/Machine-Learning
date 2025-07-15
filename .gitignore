@@ -1,5 +1,4 @@
 .DS_Store
 
 # Ignore Jupyter Notebook checkpoints
-notebooks/.ipynb_checkpoints/
-**/.ipynb_checkpoints/
+notebooks/ipynb_checkpoints/
